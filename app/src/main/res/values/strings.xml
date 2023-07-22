@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">roomDatabaseMVVM</string>
+    <string name="adicionar_palavra">Adicionar palavra</string>
 </resources>
